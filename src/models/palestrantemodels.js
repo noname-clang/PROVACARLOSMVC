@@ -23,3 +23,4 @@ conn.query(UserTable , ( err) => {
     console.log("Tabela de [palestrantes] criado com sucesso")
 })
 
+4
